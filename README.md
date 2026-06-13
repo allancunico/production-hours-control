@@ -267,3 +267,7 @@ bun run format    # Prettier
 - **Client/server separation** in Supabase: `service_role_key` never reaches the browser
 - **Authenticated webhook** via `WEBHOOK_SECRET` in the `x-webhook-secret` header
 - **Audit trail** (`general_launch_audit`) records every admin edit on the Consolidated Board
+
+---
+
+## Screenshots & Demo
