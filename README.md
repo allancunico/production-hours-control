@@ -6,6 +6,12 @@ Built as a Progressive Web App with push notification support, offline capabilit
 
 ---
 
+## Notice
+
+Due to company confidentiality requirements, the source code is not publicly available. This repository contains project documentation, architecture details, screenshots and technical information about the solution.
+
+---
+
 ## Project Background
 
 This application was initially built by one production leads using the [Lovable](https://lovable.dev) platform and later taken over by a FullStack developer for refactoring, feature development, and production maintenance.
@@ -261,11 +267,3 @@ bun run format    # Prettier
 - **Client/server separation** in Supabase: `service_role_key` never reaches the browser
 - **Authenticated webhook** via `WEBHOOK_SECRET` in the `x-webhook-secret` header
 - **Audit trail** (`general_launch_audit`) records every admin edit on the Consolidated Board
-
----
-
-## Author
-
-**Allan Pedroso Cunico**
-FullStack Developer
-[LinkedIn](https://linkedin.com/in/your-profile) · [GitHub](https://github.com/your-username)
