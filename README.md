@@ -1,4 +1,4 @@
-# Production Hours Control
+# ⏱️ Production Hours Control
 
 Internal production management system for the electrical panel assembly team
 
